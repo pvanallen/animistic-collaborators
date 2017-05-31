@@ -21,7 +21,6 @@ public class FollowMe : MonoBehaviour {
 	void Update () {
         float step = speed * Time.deltaTime;
         var headPosition = Camera.main.transform.position;
-        // use MoveTowards or Lerp
         switch(movementType) {
             case MovementType.MoveTowards:
                 transform.position = Vector3.MoveTowards(transform.position, headPosition + offset, step);
