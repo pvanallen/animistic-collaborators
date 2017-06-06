@@ -22,6 +22,7 @@ public class FollowMe : MonoBehaviour {
 	void Update () {
         float step = speed * Time.deltaTime;
         var headPosition = Camera.main.transform.position;
+        // switch statement to selecty which kind of motion to use
         switch(movementType) {
             case MovementType.MoveTowards:
                 transform.position = Vector3.MoveTowards(transform.position, headPosition + offset, step);
