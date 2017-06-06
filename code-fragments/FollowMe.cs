@@ -18,6 +18,7 @@ public class FollowMe : MonoBehaviour {
 	}
 
 	// Update is called once per frame
+  //
 	void Update () {
         float step = speed * Time.deltaTime;
         var headPosition = Camera.main.transform.position;
@@ -30,6 +31,4 @@ public class FollowMe : MonoBehaviour {
                 break;
         }
     }
-
-    //hello
 }
