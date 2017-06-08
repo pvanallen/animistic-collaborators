@@ -4,7 +4,7 @@
 
 An interface template for the these examples that used by the mobile app [TouchOSC](https://hexler.net/software/touchosc). These templates are designed on a computer, using the TouchOSC Editor, then transferred to the mobile device.
 
-A free alternative to TouchOSC is [CleanOSC](    * https://itunes.apple.com/us/app/clean-osc/id1235192209?mt=8), which has a minimal visual interface, but can perform similar functions as TouchOSC.
+A free alternative to TouchOSC is [CleanOSC](https://itunes.apple.com/us/app/clean-osc/id1235192209?mt=8), which has a minimal visual interface, but can perform similar functions as TouchOSC.
 
 ## oscSimpleExample
 
