@@ -10,7 +10,7 @@ A free alternative to TouchOSC is [CleanOSC](    * https://itunes.apple.com/us/a
 
 A barebones example of a script, using the [UniOSC plugin](http://uniosc.monoflow.org) asset, that receives an OSC message with two arguments and translates that into x,y movement of the gameObject.
 
-The example code draws on this [gist](    * https://gist.github.com/naojitaniguchi/58afae51ee98c5da38718bc70b2a609d) by @naojitaniguchi.
+The example code draws on this [gist](https://gist.github.com/naojitaniguchi/58afae51ee98c5da38718bc70b2a609d) by @naojitaniguchi.
 
 ## animationState
 
